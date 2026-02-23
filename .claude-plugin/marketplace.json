@@ -15,7 +15,10 @@
         "name": "minislively",
         "url": "https://github.com/minislively"
       },
-      "source": ".",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/minislively/ghostkill-plugin.git"
+      },
       "category": "productivity",
       "homepage": "https://github.com/minislively/ghostkill-plugin"
     }
